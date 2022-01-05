@@ -1,0 +1,194 @@
+[
+  {
+    "players": [
+      {
+        "name": "Carlton Mazur",
+        "active": true,
+        "attack": 500,
+        "defence": 4,
+        "id": 1
+      },
+      {
+        "name": "Envy Schock",
+        "active": true,
+        "attack": 4,
+        "defence": 1,
+        "id": 2
+      },
+      {
+        "name": "Brice Rosenthal",
+        "active": true,
+        "attack": 1,
+        "defence": 6,
+        "id": 3
+      },
+      {
+        "name": "Aisling Marble",
+        "active": true,
+        "attack": 5,
+        "defence": 0,
+        "id": 4
+      },
+      {
+        "name": "Arlyn Constantine",
+        "active": true,
+        "attack": 4,
+        "defence": 4,
+        "id": 5
+      },
+      {
+        "name": "Jesus Wheeler",
+        "active": true,
+        "attack": 0,
+        "defence": 1,
+        "id": 6
+      }
+    ],
+    "name": "Team 1",
+    "inUse": false
+  },
+  {
+    "players": [
+      {
+        "name": "Karim Satterfield",
+        "active": true,
+        "attack": 3,
+        "defence": 3,
+        "id": 1
+      },
+      {
+        "name": "Sammi Pumphrey",
+        "active": true,
+        "attack": 3,
+        "defence": 1,
+        "id": 2
+      },
+      {
+        "name": "Aishani Finke",
+        "active": true,
+        "attack": 0,
+        "defence": 3,
+        "id": 3
+      },
+      {
+        "name": "Adrianna Hodge",
+        "active": true,
+        "attack": 5,
+        "defence": 5,
+        "id": 4
+      },
+      {
+        "name": "Kennedi Mclean",
+        "active": true,
+        "attack": 3,
+        "defence": 3,
+        "id": 5
+      },
+      {
+        "name": "Ashby Coll",
+        "active": true,
+        "attack": 3,
+        "defence": 3,
+        "id": 6
+      }
+    ],
+    "name": "Team 2",
+    "inUse": false
+  },
+  {
+    "players": [
+      {
+        "name": "Camilo Dietrich",
+        "active": true,
+        "attack": 6,
+        "defence": 5,
+        "id": 1
+      },
+      {
+        "name": "Arian Mcghee",
+        "active": true,
+        "attack": 1,
+        "defence": 2,
+        "id": 2
+      },
+      {
+        "name": "Ayanna Song",
+        "active": true,
+        "attack": 2,
+        "defence": 4,
+        "id": 3
+      },
+      {
+        "name": "Ian Hayes",
+        "active": true,
+        "attack": 4,
+        "defence": 2,
+        "id": 4
+      },
+      {
+        "name": "Karianna Bridwell",
+        "active": true,
+        "attack": 4,
+        "defence": 1,
+        "id": 5
+      },
+      {
+        "name": "Pascal Pohlman",
+        "active": true,
+        "attack": 1,
+        "defence": 3,
+        "id": 6
+      }
+    ],
+    "name": "Team 3",
+    "inUse": false
+  },
+  {
+    "players": [
+      {
+        "name": "Elisabeth Teague",
+        "active": true,
+        "attack": 3,
+        "defence": 1,
+        "id": 1
+      },
+      {
+        "name": "Lindy Rocco",
+        "active": true,
+        "attack": 4,
+        "defence": 2,
+        "id": 2
+      },
+      {
+        "name": "Richard Holland",
+        "active": true,
+        "attack": 2,
+        "defence": 5,
+        "id": 3
+      },
+      {
+        "name": "Krithi Adorno",
+        "active": true,
+        "attack": 3,
+        "defence": 3,
+        "id": 4
+      },
+      {
+        "name": "Lucky Galbreath",
+        "active": true,
+        "attack": 5,
+        "defence": 3,
+        "id": 5
+      },
+      {
+        "name": "Amera Kasten",
+        "active": true,
+        "attack": 3,
+        "defence": 1,
+        "id": 6
+      }
+    ],
+    "name": "Team 4",
+    "inUse": false
+  }
+]
